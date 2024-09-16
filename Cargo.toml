@@ -1,0 +1,9 @@
+[package]
+name = "mattcal"
+version = "0.1.0"
+description = "A tui calendar"
+authors = [ "vismate <vismate@vismate.xyz>" ]
+license = "MIT OR Apache-2.0"
+edition = "2021"
+
+[dependencies]
