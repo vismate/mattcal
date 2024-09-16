@@ -7,3 +7,5 @@ license = "MIT OR Apache-2.0"
 edition = "2021"
 
 [dependencies]
+chrono = { version = "0.4.38", default-features = false, features = ["clock"] }
+ratatui = { version = "0.28.1" }
